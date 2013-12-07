@@ -1,19 +1,20 @@
 # classrecipe-template
-## elementary,social,classroom
+## Senir High school
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+Senior High  School (13-17)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://upload.wikimedia.org/wikipedia/commons/c/c5/Kyoto_Bunkyo_Junior_and_Senior_High_School.JPG)
 ---
 #Scale
-1 classroom (~30)
+1 classroom (in 4-5 team work)
 
 ---
 #Overall
 In this activity, students make a introduction movie about their own country, and presentation for others.
+
 
 
 ---
@@ -30,4 +31,7 @@ skill
 * PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
 * Popcorn Maker
 * Screen for presentation
+---
+#Metode Pembelajaran
+
 ---
